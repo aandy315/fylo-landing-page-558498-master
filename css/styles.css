@@ -1,0 +1,29 @@
+/*
+Project name: Fylo landing page
+Author: Andy Orme
+*/
+
+/********************************************	
+BOILERPLATE
+********************************************/
+
+/*BOX MODEL*/
+* {
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+/*CLEAR FIX*/
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clear {
+	clear: both;
+}
